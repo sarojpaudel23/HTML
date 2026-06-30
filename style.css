@@ -1,3 +1,16 @@
 body{
     text-align: center;
 }
+.div1{
+    background-color: blueviolet;
+    color:blanchedalmond;
+    height:600px;
+    width: 900px;
+    background-image: url(/assets/istockphoto-183412466-1024x1024.jpg);
+}
+#div2{
+    background-color:darksalmon;
+    color:beige;
+    height:200px;
+    width: 200px;
+}
